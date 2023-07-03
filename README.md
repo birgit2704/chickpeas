@@ -1,4 +1,5 @@
 #chickpeas
 
-exercise in responive design
+exercise in responsive design
+
 <img src="screenshot.jpg" alt="screenshot" width="200px">
