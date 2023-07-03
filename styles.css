@@ -3,7 +3,7 @@
   --background-color1: linen;
   --background-color2: #eee;
   --background-color3: #ddd;
-  --hover-color: #aaa;
+  --hover-color: #555;
   --hover-color-button: orange;
 }
 
@@ -69,9 +69,11 @@ figcaption {
   font-size: 0.8rem;
   overflow: hidden;
   margin-top: 20px;
+  font-weight: bold;
 }
 
-.nav-link:hover {
+.nav-link:hover,
+.foot-link:hover {
   color: var(--hover-color);
 }
 
